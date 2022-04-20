@@ -16,6 +16,7 @@
         app:layout_constraintEnd_toEndOf="parent"
         android:layout_marginBottom="125dp"
         android:importantForAccessibility="no"
+        tools:srcCompat="R.drawable.die6"
         />
 
     <Button
